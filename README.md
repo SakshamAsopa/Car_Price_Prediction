@@ -1,6 +1,6 @@
 ## Car_Price_Prediction
 # Overview
-This project aims to develop a robust car price prediction model using various regression techniques, including Linear Regression, Lasso Regression, Ridge Regression, and Elastic Net Regression. By leveraging historical data on used cars, the model predicts prices based on key features such as make, model, year, mileage, and condition.
+This project aims to develop a robust car price prediction model using various regression techniques, boosting techniques. By leveraging historical data on used cars, the model predicts prices based on key features such as make, model, year, mileage, and condition.
 # Features
 Predict car prices based on multiple input features.
 Compare the performance of different regression models.
